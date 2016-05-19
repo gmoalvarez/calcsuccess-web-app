@@ -1,0 +1,22 @@
+/* app css stylesheet */
+
+body {
+  padding: 20px;
+}
+
+.video-list a {
+  cursor: pointer;
+  /*margin: 20px;*/
+}
+
+.video-link {
+  cursor: pointer;
+}
+
+.selected { background-color: #EEE; color: #369; }
+
+/*
+Copyright 2016 Google Inc. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/
